@@ -5,6 +5,9 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "hardhat:node": "hardhat node"
+  },
   "dependencies": {
     "hardhat": "^2.12.4"
   },
